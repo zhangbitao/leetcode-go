@@ -54,6 +54,7 @@
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./algorithms/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.go) | 中等 |
+| 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | [Go](./algorithms/RotateList/RotateList.go) | 中等 |
 
 ### 广度优先搜索(Breadth-first Search)
 
@@ -90,6 +91,7 @@
 | 23 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/description/) | [Go](./algorithms/MergekSortedLists/MergekSortedLists.go) | 困难 |
 | 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) | [Go](./algorithms/SwapNodesinPairs/SwapNodesinPairs.go) | 中等 |
 | 25 | [k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/) [Go](./algorithms/ReverseNodesInKGroup/ReverseNodesInKGroup.go) | 困难 |
+| 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | [Go](./algorithms/RotateList/RotateList.go) | 中等 |
 
 ### 位运算(Bit Manipulation)
 
