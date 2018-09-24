@@ -4,26 +4,21 @@ import (
 	"testing"
 )
 
-func arrayToLists(array []int) *ListNode {
-	if len(array) == 0 {
-		return nil
-	}
-	head := &ListNode{
-		Val: 0,
-	}
-	prev := head
-	for _, a := range array {
+func buildList(value []int) *ListNode {
+	var result *ListNode
+	r := &result
+	for _, v := range value {
 		l := &ListNode{
-			Val: a,
+			Val:  v,
+			Next: nil,
 		}
-		prev.Next = l
-		prev = prev.Next
+		*r = l
+		r = &(l.Next)
 	}
-
-	return head.Next
+	return result
 }
 
-func isSameLists(l1 *ListNode, l2 *ListNode) bool {
+func isSameList(l1 *ListNode, l2 *ListNode) bool {
 	if l1 == nil && l2 == nil {
 		return true
 	}
@@ -67,11 +62,11 @@ func TestMergeTwoLists(t *testing.T) {
 	}
 
 	for _, tc := range testCases {
-		l1 := arrayToLists(tc.input1)
-		l2 := arrayToLists(tc.input2)
+		l1 := buildList(tc.input1)
+		l2 := buildList(tc.input2)
 		got := mergeTwoLists(l1, l2)
-		want := arrayToLists(tc.output)
-		if !isSameLists(got, want) {
+		want := buildList(tc.output)
+		if !isSameList(got, want) {
 			t.Errorf("wrong result, expected %v and got %v", printList(want), printList(got))
 		}
 	}
