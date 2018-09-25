@@ -93,6 +93,7 @@
 | 25 | [k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/) | [Go](./algorithms/ReverseNodesInKGroup/ReverseNodesInKGroup.go) | 困难 |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | [Go](./algorithms/RotateList/RotateList.go) | 中等 |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [Go](./algorithms/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.go) | 中等 |
+| 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [Go](./algorithms/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.go) | 简单 |
 
 ### 位运算(Bit Manipulation)
 
