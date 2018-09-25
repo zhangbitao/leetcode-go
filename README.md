@@ -14,3 +14,4 @@ LeetCode Algorithm ([Topics](./Topics.md))
 | 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) | `链表` | [Go](./algorithms/SwapNodesinPairs/SwapNodesinPairs.go) | 中等 |
 | 25 | [k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/) | `链表` | [Go](./algorithms/ReverseNodesInKGroup/ReverseNodesInKGroup.go) | 困难 |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | `链表` `双指针` | [Go](./algorithms/RotateList/RotateList.go) | 中等 |
+| 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) | `链表` | [Go](./algorithms/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.go) | 中等 |
