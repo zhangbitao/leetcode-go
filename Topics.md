@@ -56,6 +56,7 @@
 | 19 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) | [Go](./algorithms/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.go) | 中等 |
 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) | [Go](./algorithms/RotateList/RotateList.go) | 中等 |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [Go](./algorithms/LinkedListCycle/LinkedListCycle.go) | 简单 |
+| 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | [Go](./algorithms/PalindromeLinkedList/PalindromeLinkedList.go) | 简单 |
 
 ### 广度优先搜索(Breadth-first Search)
 
@@ -98,6 +99,7 @@
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | [Go](./algorithms/LinkedListCycle/LinkedListCycle.go) | 简单 |
 | 203 | [删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/description/) | [Go](./algorithms/RemoveLinkedListElements/RemoveLinkedListElements.go) | 简单 |
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/) | [Go](./algorithms/ReverseLinkedList/ReverseLinkedList.go) | 简单 |
+| 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | [Go](./algorithms/PalindromeLinkedList/PalindromeLinkedList.go) | 简单 |
 
 ### 位运算(Bit Manipulation)
 
