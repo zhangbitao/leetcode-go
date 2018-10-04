@@ -125,7 +125,7 @@
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
 | 147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/description/) | [Go](./algorithms/InsertionSortList/InsertionSortList.go) | 中等 |
-| 147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/description/) | [Go](./algorithms/InsertionSortList/InsertionSortList.go) | 中等 |
+| 148 | [排序链表](https://leetcode-cn.com/problems/sort-list/description/) | [Go](./leetcode-go/algorithms/SortList/SortList.go) | 中等 |
 
 ### 图(Graph)
 
