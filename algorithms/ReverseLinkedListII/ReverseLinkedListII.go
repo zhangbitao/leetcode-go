@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/reverse-linked-list-ii/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-02
 //
 // Reverse a linked list from position m to n. Do it in one-pass.

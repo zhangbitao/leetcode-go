@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/merge-k-sorted-lists/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-23
 //
 // Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.

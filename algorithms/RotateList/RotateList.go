@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/rotate-list/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-24
 //
 // Given a linked list, rotate the list to the right by k places, where k is non-negative.

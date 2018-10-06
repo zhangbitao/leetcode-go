@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-23
 //
 // Given a linked list, remove the n-th node from the end of list and return its head.

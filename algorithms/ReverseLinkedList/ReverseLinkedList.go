@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/reverse-linked-list/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-01
 //
 // Reverse a singly linked list.

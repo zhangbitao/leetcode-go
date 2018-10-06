@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/merge-two-sorted-lists/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-23
 //
 // Merge two sorted linked lists and return it as a new list. The new list should

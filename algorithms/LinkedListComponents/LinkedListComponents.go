@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/linked-list-components/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-06
 //
 

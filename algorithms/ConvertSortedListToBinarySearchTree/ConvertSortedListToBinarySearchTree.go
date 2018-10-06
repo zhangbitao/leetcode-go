@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-02
 //
 // Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.

@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/two-sum/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-24
 //
 // Given an array of integers, return indices of the two numbers such that

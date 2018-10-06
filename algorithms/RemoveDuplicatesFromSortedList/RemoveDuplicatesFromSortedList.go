@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-25
 //
 // Given a sorted linked list, delete all duplicates such that each element appear only once.

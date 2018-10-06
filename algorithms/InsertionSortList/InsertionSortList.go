@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/insertion-sort-list/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-04
 //
 // Sort a linked list using insertion sort.

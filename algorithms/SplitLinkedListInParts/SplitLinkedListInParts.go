@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/split-linked-list-in-parts/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-06
 //
 // Given a (singly) linked list with head node root, write a function to split the

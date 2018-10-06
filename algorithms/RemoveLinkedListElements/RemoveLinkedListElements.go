@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/remove-linked-list-elements/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-01
 //
 // Remove all elements from a linked list of integers that have value val.

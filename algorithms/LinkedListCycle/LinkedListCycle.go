@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/linked-list-cycle/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-25
 //
 // Given a linked list, determine if it has a cycle in it.

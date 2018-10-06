@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/palindrome-linked-list/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-10-01
 //
 // Given a singly linked list, determine if it is a palindrome.

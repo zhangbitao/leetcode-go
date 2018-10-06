@@ -1,5 +1,5 @@
 // Source : https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/
-// Author : zhangbitao <xszhangbitao@gmail.com>
+// Author : zhangbitao <zhangbitao01@gmail.com>
 // Date   : 2018-09-24
 //
 // There are two sorted arrays nums1 and nums2 of size m and n respectively.
