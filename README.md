@@ -28,5 +28,6 @@ LeetCode Algorithm ([Topics](./Topics.md))
 | 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | `链表` `双指针` | [Go](./algorithms/PalindromeLinkedList/PalindromeLinkedList.go) | 简单 |
 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/description/) | `链表` | [Go](./algorithms/OddEvenLinkedList/OddEvenLinkedList.go) | 中等 |
 | 445 | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/description/) | `链表` | [Go](./algorithms/AddTwoNumbersII/AddTwoNumbersII.go) | 中等 |
-725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/) | `链表` | [Go](./algorithms/SplitLinkedListInParts/SplitLinkedListInParts.go) | 中等 |
-817 | [链表组件](https://leetcode-cn.com/problems/linked-list-components/description/) | `链表` | [Go](./algorithms/LinkedListComponents/LinkedListComponents.go) | 中等 |
+| 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/) | `链表` | [Go](./algorithms/SplitLinkedListInParts/SplitLinkedListInParts.go) | 中等 |
+| 817 | [链表组件](https://leetcode-cn.com/problems/linked-list-components/description/) | `链表` | [Go](./algorithms/LinkedListComponents/LinkedListComponents.go) | 中等 |
+| 876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/description/) | `链表` | [Go](./algorithms/MiddleOfTheLinkedList/MiddleOfTheLinkedList.go) | 简单 |
