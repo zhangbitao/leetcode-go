@@ -31,12 +31,14 @@
 
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Go](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.go) | 中等 |
 
 ### 哈希表(Hash Table)
 
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [Go](./algorithms/TwoSum/TwoSum.go) | 简单 |
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Go](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.go) | 中等 |
 
 ### 深度优先搜索(Depth-first Search)
 
@@ -69,6 +71,7 @@
 
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Go](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.go) | 中等 |
 
 ### 回溯算法(Backtracking)
 

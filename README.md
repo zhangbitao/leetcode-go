@@ -18,6 +18,7 @@ LeetCode Algorithm ([Topics](./Topics.md))
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | `链表` | [Go](./algorithms/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.go) | 简单 |
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/description/) | `链表` `双指针` | [Go](./algorithms/PartitionList/PartitionList.go) | 中等 |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/) | `链表` | [Go](./algorithms/ReverseLinkedListII/ReverseLinkedListII.go) | 中等 |
+| 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | `栈` `树` `哈希表` | [Go](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.go) | 中等 |
 | 109 | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/description/) | `深度优先搜索` `链表` | [Go](./algorithms/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.go) | 中等 |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | `链表` `双指针` | [Go](./algorithms/LinkedListCycle/LinkedListCycle.go) | 简单 |
 | 143 | [重排链表](https://leetcode-cn.com/problems/reorder-list/description/) | `链表` | [Go](./algorithms/ReorderList/ReorderList.go) | 中等 |
