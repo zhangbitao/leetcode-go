@@ -32,6 +32,7 @@
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Go](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.go) | 中等 |
+| 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/description/) | [Go](./algorithms/SameTree/SameTree.go) | 简单 |
 
 ### 哈希表(Hash Table)
 
@@ -44,6 +45,7 @@
 
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
+| 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/description/) | [Go](./algorithms/SameTree/SameTree.go) | 简单 |
 | 109 | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Go](./algorithms/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.go) | 中等 |
 
 ### 二分查找(Binary Search)
