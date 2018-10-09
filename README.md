@@ -23,6 +23,7 @@ LeetCode Algorithm ([Topics](./Topics.md))
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/description/) | `树` `深度优先搜索` `广度优先搜索` | [Go](./algorithms/SymmetricTree/SymmetricTree.go) | 简单 |
 | 102 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) | `树` `广度优先搜索` | [Go](./algorithms/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.go) | 中等 |
 | 103 | [二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/description/) | `栈` `树` `广度优先搜索` | [Go](./algorithms/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.go) | 中等 |
+| 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | `树` `深度优先算法` | [Go](./algorithms/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.go) | 简单 |
 | 109 | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/description/) | `深度优先搜索` `链表` | [Go](./algorithms/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.go) | 中等 |
 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/description/) | `链表` `双指针` | [Go](./algorithms/LinkedListCycle/LinkedListCycle.go) | 简单 |
 | 143 | [重排链表](https://leetcode-cn.com/problems/reorder-list/description/) | `链表` | [Go](./algorithms/ReorderList/ReorderList.go) | 中等 |
