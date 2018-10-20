@@ -36,6 +36,7 @@
 | 94 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/description/) | [Go](./algorithms/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.go) | 中等 |
 | 95 | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/description/) | [Go](./algorithms/UniqueBinarySearchTreesII/UniqueBinarySearchTreesII.go) | 中等 |
 | 96 | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/description/) | [Go](./algorithms/UniqueBinarySearchTrees/UniqueBinarySearchTrees.go) | 中等 |
+| 98 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/description/) | [Go](./algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree.go) | 中等 |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/description/) | [Go](./algorithms/SameTree/SameTree.go) | 简单 |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/description/) | [Go](./algorithms/SymmetricTree/SymmetricTree.go) | 简单 |
 | 102 | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/description/) | [Go](./algorithms/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.go) | 中等 |
@@ -54,6 +55,7 @@
 
 | # | 题名 | 解答 | 难度 |
 |---|-----|------|-----|
+| 98 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/description/) | [Go](./algorithms/ValidateBinarySearchTree/ValidateBinarySearchTree.go) | 中等 |
 | 100 | [相同的树](https://leetcode-cn.com/problems/same-tree/description/) | [Go](./algorithms/SameTree/SameTree.go) | 简单 |
 | 101 | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/description/) | [Go](./algorithms/SymmetricTree/SymmetricTree.go) | 简单 |
 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) | [Go](./algorithms/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.go) | 简单 |
